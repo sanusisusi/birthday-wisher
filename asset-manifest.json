@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/birthday-wisher/static/css/main.638ba701.chunk.css",
+    "main.js": "/birthday-wisher/static/js/main.acd1f039.chunk.js",
+    "main.js.map": "/birthday-wisher/static/js/main.acd1f039.chunk.js.map",
+    "runtime-main.js": "/birthday-wisher/static/js/runtime-main.f353cf11.js",
+    "runtime-main.js.map": "/birthday-wisher/static/js/runtime-main.f353cf11.js.map",
+    "static/js/2.37e6f535.chunk.js": "/birthday-wisher/static/js/2.37e6f535.chunk.js",
+    "static/js/2.37e6f535.chunk.js.map": "/birthday-wisher/static/js/2.37e6f535.chunk.js.map",
+    "index.html": "/birthday-wisher/index.html",
+    "precache-manifest.aacaa33950e3720e3a0408b1eece65f2.js": "/birthday-wisher/precache-manifest.aacaa33950e3720e3a0408b1eece65f2.js",
+    "service-worker.js": "/birthday-wisher/service-worker.js",
+    "static/css/main.638ba701.chunk.css.map": "/birthday-wisher/static/css/main.638ba701.chunk.css.map",
+    "static/js/2.37e6f535.chunk.js.LICENSE.txt": "/birthday-wisher/static/js/2.37e6f535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f353cf11.js",
+    "static/js/2.37e6f535.chunk.js",
+    "static/css/main.638ba701.chunk.css",
+    "static/js/main.acd1f039.chunk.js"
+  ]
+}
